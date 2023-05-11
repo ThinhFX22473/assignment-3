@@ -1,0 +1,54 @@
+@media screen and (max-width: 768px) {
+  /* BANNER */
+  .nav-item {
+    justify-content: start;
+    border: none;
+  }
+
+  .nav-item:last-child {
+    border: none;
+  }
+
+  /* NAVBAR */
+  #nav-bar {
+    padding: 0px 75px;
+  }
+
+  /* CHỨNG CHỈ GIẢI THƯỞNG */
+  #certificate {
+    padding: 25px;
+  }
+
+  .certi {
+    border-left: none;
+    padding-left: 0;
+    padding-right: 0;
+    border-top: 1px solid #d6c08d;
+    margin: 5px 0px;
+  }
+
+  .certi h2 {
+    margin-top: 10px;
+  }
+
+  .certi-2 {
+    padding-top: 30px;
+  }
+
+  .certi-4 {
+    display: none;
+  }
+
+  /* DỰ ÁN */
+  #project {
+    padding: 0px 25px 0px 25px;
+  }
+
+  /* FOOTER */
+  #footer h2 {
+    display: none;
+  }
+  .icon-container {
+    gap: 20px;
+  }
+}

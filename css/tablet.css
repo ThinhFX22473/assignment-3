@@ -1,0 +1,14 @@
+@media screen and (max-width: 992px) {
+  /* BANNER */
+  #banner {
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+  }
+
+  /* NAVBAR */
+
+  .nav-item-name {
+    display: none;
+  }
+}
